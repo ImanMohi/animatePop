@@ -1,7 +1,7 @@
 .box {
     width: 100px;
     height: 100px;
-    background-color: #0074d9;
+    background-color: #ffc4c7;
     border-radius: 50%;
   }
   
@@ -11,4 +11,5 @@
     align-items: center;
     flex-direction: column;
     min-height: 400px;
+    background-color: aliceblue;
   }
